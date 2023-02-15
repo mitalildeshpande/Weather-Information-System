@@ -1,0 +1,17 @@
+{
+  "sender_name": null,
+  "request": null,
+  "term": null,
+  "key": null,
+  "value": null,
+  "Entries":null,
+  "LeaderId":null,
+  "prevLogIndex":-1,
+  "prevLogTerm":null,
+  "candidateId":null,
+  "lastLogIndex'":null,
+  "lastLogTerm":null,
+  "success":null,
+  "commitIndex":null,
+  "appendlog":null                                                                            
+}
